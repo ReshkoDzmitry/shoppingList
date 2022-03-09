@@ -11,3 +11,5 @@ Come to the store and remember what you had to buy? The shopping planner will al
 - TypeScript
 - React
 - React Hook
+
+Link GitPages: https://reshkodzmitry.github.io/shoppingList/
