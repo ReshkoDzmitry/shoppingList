@@ -1,0 +1,30 @@
+.activeFilter {
+    color: #fff;
+    background: rgba(0, 80, 138, 0.65);
+    border: none;
+    width: 87px;
+    height: 30px;
+    font-weight: bold;
+}
+
+.buttonFilterStyle {
+    width: 87px;
+    height: 30px;
+    /*border-color: #f1c40f;*/
+    border: none;
+    background-image: -webkit-linear-gradient(45deg, rgba(86, 184, 255, 0.6) 50%, transparent 50%);
+    background-image: linear-gradient(45deg, rgba(86, 184, 255, 0.6) 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition: background .6s ease-in-out;
+    transition: background .6s ease-in-out;
+}
+.buttonFilterStyle:hover {
+    background-position: 0;
+    color: #000000;
+}
+
+.opacityTitle {
+    opacity: .8;
+}
+
