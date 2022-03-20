@@ -3,7 +3,7 @@ Web application Shopping Planner.
 Come to the store and remember what you had to buy? The shopping planner will always help you choose exactly what you need.
 
 
-При разработке использовались:
+Used technologies:
 - HTML
 - CSS
 - MaterialUI
